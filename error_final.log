@@ -1,0 +1,124 @@
+┌ Warning: Found `resolution` in the theme when creating a `Scene`. The `resolution` keyword for `Scene`s and `Figure`s has been deprecated. Use `Figure(; size = ...` or `Scene(; size = ...)` instead, which better reflects that this is a unitless size and not a pixel resolution. The key could also come from `set_theme!` calls or related theming functions.
+└ @ Makie ~/.julia/packages/Makie/TOy8O/src/scenes.jl:264
+┌ Warning: At t=49.31602607775909, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0587774132914904. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=48.69632184315341, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.3609336215641106. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=48.16170579348857, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.194321877632774. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=47.68801074576922, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0136060822707533. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=47.26185558239157, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.2068928674745205. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=46.78119312226732, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905819758435. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=46.43387763746689, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905660917957. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=46.146602372404466, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905581016938. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.90761538161275, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0691675834418308. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.7216686278879, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907147201091. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.60347016398912, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905543888904. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.587891515459724, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905395491825. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.77442731889638, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112906985285604. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=46.723503190796485, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.3590811112543715. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=45.79563633809198, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.2155960020609888. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=44.54240352186937, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.011290786196676. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=43.678711631632446, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905886170234. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=43.069784869824844, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.3918897229387. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=42.57414415473793, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905133823402. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=42.14442111523972, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907218521276. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=41.76157017269558, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.1534964915613697. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=41.41506611115456, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112904649871783. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=41.09858919155131, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907556004855. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.807943043353426, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.20206366543357. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.54058573765878, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0289980257482667. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.29487371415394, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.011291019132798. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.07001001353348, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112904847874746. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.86601476326593, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907347621676. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.683529439427275, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0703298398039525. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.52375312785184, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.011290499121397. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.29430394868198, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0825236604339055. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.204789553150974, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.39263516801661. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.176086000741456, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112906478076882. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.232889654649355, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.137579847636716. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=39.45128701120994, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.3438872133628295. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.17468950315105, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905896711397. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=40.11086043482453, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907431947167. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=38.72392157646441, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112906565272837. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=37.99419914578924, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.011290609314489. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=37.45654543817809, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.1647411648423556. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=37.015359977832134, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907909806028. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=36.633918272288184, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.011290660484616. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=36.293765104780796, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907033976746. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=35.98427704828504, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112909619645105. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=35.6984235188382, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112905312584777. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=35.43101698173593, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.2413344180041608. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=35.083043062502966, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112904659129023. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=34.8482714161827, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.0112907136204048. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+┌ Warning: At t=34.63456160727281, dt was forced below floating point epsilon 7.105427357601002e-15, and step error estimate = 1.388670000972859. Aborting. There is either an error in your model specification or the true solution is unstable (or the true solution can not be represented in the precision of Float64).
+└ @ SciMLBase ~/.julia/packages/SciMLBase/TZ9Rx/src/integrator_interface.jl:671
+ERROR: LoadError: AssertionError: lens isa Int || lens isa AllOpticTypes
+Stacktrace:
+  [1] BifurcationKit.BifurcationProblem(_F::ModifiedDuffingProject.Bifurcation.var"#F_duffing#get_bifurcation_problem##0", u0::StaticArraysCore.SVector{2, Float64}, parms::DuffingParams{Float64}, lens::Setfield.PropertyLens{:ϵ}; jvp::Nothing, vjp::Nothing, J::Nothing, J!::Nothing, Jᵗ::Nothing, d2F::Nothing, d2Fc::Nothing, d3F::Nothing, d3Fc::Nothing, issymmetric::Bool, record_from_solution::typeof(BifurcationKit.record_sol_default), plot_solution::typeof(BifurcationKit.plot_default), delta::Float64, save_solution::typeof(BifurcationKit.save_solution_default), inplace::Bool, update!::typeof(BifurcationKit.update_default), kwargs_jet::@Kwargs{})
+    @ BifurcationKit ~/.julia/packages/BifurcationKit/H9RbT/src/Problems.jl:361
+  [2] BifurcationKit.BifurcationProblem(_F::Function, u0::StaticArraysCore.SVector{2, Float64}, parms::DuffingParams{Float64}, lens::Setfield.PropertyLens{:ϵ})
+    @ BifurcationKit ~/.julia/packages/BifurcationKit/H9RbT/src/Problems.jl:343
+  [3] get_bifurcation_problem(p::DuffingParams{Float64})
+    @ ModifiedDuffingProject.Bifurcation ~/Documents/Project 3/ModifiedDuffingProject/src/Analysis/Bifurcation.jl:35
+  [4] plot_bifurcation_diagram(output_path::String)
+    @ ModifiedDuffingProject.Diagrams ~/Documents/Project 3/ModifiedDuffingProject/src/Visualization/Diagrams.jl:21
+  [5] top-level scope
+    @ ~/Documents/Project 3/ModifiedDuffingProject/scripts/01_autonomous.jl:11
+  [6] include(mapexpr::Function, mod::Module, _path::String)
+    @ Base ./Base.jl:307
+  [7] top-level scope
+    @ ~/Documents/Project 3/ModifiedDuffingProject/scripts/run_all.jl:5
+  [8] include(mod::Module, _path::String)
+    @ Base ./Base.jl:306
+  [9] exec_options(opts::Base.JLOptions)
+    @ Base ./client.jl:317
+ [10] _start()
+    @ Base ./client.jl:550
+in expression starting at /Users/praneethmerugu/Documents/Project 3/ModifiedDuffingProject/scripts/01_autonomous.jl:11
+in expression starting at /Users/praneethmerugu/Documents/Project 3/ModifiedDuffingProject/scripts/run_all.jl:5
